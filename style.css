@@ -1,0 +1,307 @@
+@font-face {
+  font-family: 'Abhaya Libre';
+  src: url('path/to/AbhayaLibre-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body { font-family: 'Abhaya Libre', serif; }
+
+html{
+    max-width: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    border: none;
+    background: none;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:24px;
+    font-size: 24px;
+}
+
+header img{
+    margin-right: 50px;
+}
+
+.justifu{
+    margin-top: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 72px;
+}
+
+.d1{
+    height: 70px;
+    width: 100%;
+    margin-left: 100px;
+    border:none ;
+    outline: none;
+    font-size: 64px;
+}
+
+.line{
+    width: 100%;
+}
+@media(max-width:1200px){
+    html{
+    max-width: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:24px;
+    font-size: 24px;
+}
+
+header img{
+    margin-right: 50px;
+}
+
+.justifu{
+    margin-top: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 72px;
+}
+
+.d1{
+    height: 70px;
+    width: 100%;
+    margin-left: 100px;
+    border:none ;
+    outline: none;
+    font-size: 64px;
+}
+
+.line{
+    width: 100%;
+}
+}
+@media(max-width:960px){
+    html{
+    max-width: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:12px;
+    font-size: 16px;
+}
+
+header img{
+    margin-right: 50px;
+}
+
+.justifu{
+    margin-top: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 72px;
+}
+
+.d1{
+    height: 70px;
+    width: 100%;
+    margin-left: 100px;
+    border:none ;
+    outline: none;
+    font-size: 64px;
+}
+
+.line{
+    width: 100%;
+}
+}
+
+@media(max-width:760px){
+    html{
+    max-width: auto;
+}
+header {
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:12px;
+    font-size: 16px;
+}
+
+.cart img{
+    width: 100px;
+}
+
+header img{
+    margin-right: 10px;
+}
+
+.justifu{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 64px;
+}
+
+.d1{
+    height: 70px;
+    width: 100%;
+    margin-left: 45px;
+    border:none ;
+    outline: none;
+    font-size: 64px;
+}
+
+.line{
+    width: 100%;
+}
+}
+@media(max-width:480px){
+    html{
+    max-width: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:12px;
+    font-size: 16px;
+}
+
+.cart img{
+    width: 100px;
+}
+
+header img{
+    margin-right: 10px;
+}
+
+.justifu{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 42px;
+}
+
+.d1{
+    height: 70px;
+    width: 100%;
+    margin-left: 50px;
+    border:none ;
+    outline: none;
+    font-size: 64px;
+}
+
+.line{
+    width: 100%;
+}
+}
+@media(max-width:360px){
+    html{
+    max-width: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items{
+    align-items: center;
+    display: flex;
+}
+
+.text-header{
+    letter-spacing:12px;
+    font-size: 16px;
+}
+
+.cart img{
+    width: 100px;
+}
+
+header img{
+    margin-right: 10px;
+}
+
+.justifu{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-main{
+    font-size: 32px;
+}
+
+.d1{
+    height: 50px;
+    width: 100%;
+    margin-left: 10px;
+    border:none ;
+    outline: none;
+    font-size: 36px;
+}
+
+.line{
+    width: 100%;
+}
+
+}
+
