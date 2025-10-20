@@ -101,6 +101,14 @@ header img{
     width: 100%;
 }
 }
+
+@media(max-width:1054px){
+    .text-header{
+    letter-spacing:12px;
+    font-size: 16px;
+}
+}
+
 @media(max-width:960px){
     html{
     max-width: auto;
@@ -304,4 +312,5 @@ header img{
 }
 
 }
+
 
