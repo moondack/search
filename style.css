@@ -1,6 +1,15 @@
-
+@font-face {
+    font-family: 'Abhaya Libre ExtraBold';
+    src: url('fonts/AbhayaLibre-ExtraBold.woff2') format('woff2'),
+         url('fonts/AbhayaLibre-ExtraBold.woff') format('woff'),
+         url('fonts/AbhayaLibre-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
 }
-body { font-family: 'Abhaya Libre', serif; }
+
+body {
+    font-family: 'Abhaya Libre ExtraBold', serif;
+}
 
 html{
     max-width: auto;
@@ -308,6 +317,7 @@ header img{
 }
 
 }
+
 
 
 
