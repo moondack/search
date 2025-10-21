@@ -1,8 +1,4 @@
-@font-face {
-  font-family: 'Abhaya Libre';
-  src: url('path/to/AbhayaLibre-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+
 }
 body { font-family: 'Abhaya Libre', serif; }
 
@@ -312,5 +308,6 @@ header img{
 }
 
 }
+
 
 
